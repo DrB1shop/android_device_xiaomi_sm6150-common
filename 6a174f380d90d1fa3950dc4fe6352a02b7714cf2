@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6ed65390_b5acc7e7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-11-07T03:10:52Z",
+      "side": 1,
+      "message": "Not sure if you should be removing `can-swap-width-height`, afaik this is supported on qcom and without it you\u0027ll have issues with media playback of high resolution files which won\u0027t be supported after removing the ability to swap",
+      "revId": "6a174f380d90d1fa3950dc4fe6352a02b7714cf2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
