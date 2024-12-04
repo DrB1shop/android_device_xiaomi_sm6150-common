@@ -51,6 +51,24 @@
       "message": "Not sure about this, haven\u0027t had reports of anything breaking though",
       "revId": "6a174f380d90d1fa3950dc4fe6352a02b7714cf2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fb1b51c2_40e2460d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-12-04T23:56:51Z",
+      "side": 1,
+      "message": "They probably just forgot/didn\u0027t care to add it. I haven\u0027t seen any qcom that wouldn\u0027t work with the swap feature and generally it\u0027s something that you should add, not remove",
+      "parentUuid": "04b132dd_2aae70e0",
+      "revId": "6a174f380d90d1fa3950dc4fe6352a02b7714cf2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
